@@ -30,3 +30,54 @@ THE SOFTWARE.
     Author     : Downland
 */
 
+.container{
+    width: 85%;
+    margin: auto;
+    padding: 0;
+    //border: 1px solid black;
+}
+
+.row {
+    text-align: justify;
+} 
+
+.panel-heading{
+    background: #333 !important;
+    height: 220px; 
+    overflow: hidden;
+}
+
+.cabecera{
+    padding-top: 40px;
+    width: 80%;
+    margin: auto;
+    font-size: 30px;
+    color: gold;
+    border-bottom: 4px solid gold;
+}
+
+.interno {
+    font-size: 60px;
+    color: gold;
+    width: 80%;
+    margin: auto;
+}
+
+.comentario {
+    border: 2px solid rgb(238,238,238);
+    padding: 5px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.autor{
+    margin-bottom: 0px;
+    float:right;
+}
+
+.boton {
+    float: right;
+}
+
+
+
